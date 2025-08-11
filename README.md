@@ -2,3 +2,4 @@
 
 **Succeed:**
 - Level 12 -> 13 OverTheWire Bandit (finally)
+- Level 13 -> 14 OverTheWire Bandit
