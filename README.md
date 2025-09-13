@@ -11,3 +11,17 @@
 **Succeed:**
 - Level 14 -> 15 OverTheWire Bandit (netcat)
 - Level 15 -> 16 OverTheWire Bandit (openssl, tls)
+
+
+## 2025-09-13
+
+**Succeed:**
+- "Server-side Vulnerabilites path" in portswigger
+  Conceptual understanding of these vulns:
+  1. Path traversal (../../ and etc.)
+  2. Authentication vulns
+  3. Access control (btw. top 1 in rating of owasp top ten)
+  4. SSRF
+  5. File upload vulns (php injection and etc.)
+  6. OS Injection (shells and etc.)
+  7. SQLi
